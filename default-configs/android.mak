@@ -1,0 +1,4 @@
+# Android emulator-specific options
+CONFIG_GOLDFISH=y
+CONFIG_FRAMEBUFFER=y
+CONFIG_ANDROID_PIPE=y
